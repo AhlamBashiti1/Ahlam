@@ -1,7 +1,6 @@
-# 📊 DataSetsInfo.py
+# 📊 MLProject
 
-We
-lcome to the `DataSetsInfo.py` module! This script is designed to streamline your data exploration process by loading and visualizing multiple synthetic datasets.
+We lcome to the `DataSetsInfo.py` module! This script is designed to streamline your data exploration process by loading and visualizing multiple synthetic datasets.
 
 ## 📁 Supported Datasets
 
@@ -25,6 +24,5 @@ These tools help you gain a deeper understanding of each dataset’s structure a
 Run the script using Python:
 
 ```bash
-python DataSetsInfo.py
+python $ python mains2.py --algorithm spherical --dataset_name iris --K 3 --iter 50
 
-```main.py
