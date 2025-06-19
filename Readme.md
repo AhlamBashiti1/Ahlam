@@ -76,21 +76,10 @@ python mains2.py \
   --dataset_name moons \
   --dbscan_eps 0.3 \
   --min_samples 4
-```
 
----
 
-### ✅ Supported Dataset Names
 
-* `iris`
-* `circles`
-* `moons`
-* `3gaussians-std0.6`
-* `3gaussians-std0.9`
 
-All dataset names are case-insensitive and validated internally.
-
----
 
 ## 📚 Requirements
 
