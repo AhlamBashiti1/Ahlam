@@ -90,11 +90,6 @@ Install the required dependencies with:
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome!
-Feel free to fork the repository and improve or extend the project.
-
 ---
 
 > 🧠 *Machine learning is not just about models — it’s about understanding data.*
